@@ -5,6 +5,7 @@ import scipy.fftpack as fftpack
 # Temporal bandpass filter with Fast-Fourier Transform
 def fft_filter(video, freq_min, freq_max, fps):
     fft = fftpack.fft(video, axis=0)
+    print(video.shape)
     frequencies = fftpack.fftfreq(video.shape[0], d=1.0 / fps)
     bound_low = (np.abs(frequencies - freq_min)).argmin()
     bound_high = (np.abs(frequencies - freq_max)).argmin()

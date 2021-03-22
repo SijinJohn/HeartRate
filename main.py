@@ -15,12 +15,13 @@ video_frames, frame_ct, fps = preprocessing.read_video("videos/rohin_active.mov"
 # Build Laplacian video pyramid
 print("Building Laplacian video pyramid...")
 lap_video = pyramids.build_video_pyramid(video_frames)
-
+print("lap videoshape", len(lap_video))
 amplified_video_pyramid = []
 
 for i, video in enumerate(lap_video):
     if i == 0 or i == len(lap_video)-1:
         continue
+    print("video shape",video.shape)
 
     # Eulerian magnification with temporal FFT filtering
     print("Running FFT and Eulerian magnification...")
