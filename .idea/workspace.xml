@@ -19,25 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f506bafb-06d2-43a0-b148-34eafdf6f79b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heartrate_without_pyramid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/remote_heartrate_detection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/remote_heartrate_detection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eulerian.py" beforeDir="false" afterPath="$PROJECT_DIR$/eulerian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heartrate.py" beforeDir="false" afterPath="$PROJECT_DIR$/heartrate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyramids.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyramids.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/face.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/face.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/out.avi" beforeDir="false" afterPath="$PROJECT_DIR$/videos/out.avi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/rohin_active.mov" beforeDir="false" afterPath="$PROJECT_DIR$/videos/rohin_active.mov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/rohin_face.mov" beforeDir="false" afterPath="$PROJECT_DIR$/videos/rohin_face.mov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/rohin_rest.mov" beforeDir="false" afterPath="$PROJECT_DIR$/videos/rohin_rest.mov" afterDir="false" />
-    </list>
+    <list default="true" id="f506bafb-06d2-43a0-b148-34eafdf6f79b" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/rohintangirala/PycharmProjects/remote_heartrate_detection/preprocessing.py" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/DMSOnnx/driver-monitoring-system" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.recursion">
@@ -213,16 +195,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Abhishek/eulerian.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
